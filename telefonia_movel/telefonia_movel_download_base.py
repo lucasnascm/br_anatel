@@ -1,4 +1,5 @@
 """
+Código criado usando Google Colab
 Download da base de dados de telefonia móvel by Anatel
 """"
 
@@ -77,7 +78,3 @@ tm_nova.to_csv('/content/telefonia_movel_microdados_2019-2021.csv')
 #se preferível, salvar arquivos no Drive
 from google.colab import drive
 drive.mount('/content/drive')
-
-tm_tec.to_csv('/content/drive/MyDrive/br_anatel/telefonia_movel/input/telefonia_movel_microdados_tecnologia_2009-2018')
-tm_mod.to_csv('/content/drive/MyDrive/br_anatel/telefonia_movel/input/telefonia_movel_microdados_modalidade_2005-2018')
-tm_nova.to_csv('/content/drive/MyDrive/br_anatel/telefonia_movel/input/telefonia_movel_microdados_2019-2021')
