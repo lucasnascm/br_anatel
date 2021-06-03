@@ -1,0 +1,20 @@
+    Dados de telefonia móvel (também conhecido como Serviço Móvel Pessoal) agrupados pelo código de DDD formando a série histórica de 2009 a 2021.
+Além do código de Discagem Direta a Distância, os dados são agrupados por mês, ano, tecnologia e sinal mostrando a evolução da conectivididade no Brasil nesse período.
+
+Para saber mais acesse:
+Website: https://basedosdados.org/dataset/br-anatel-telefonia-movel
+Github: https://github.com/basedosdados/mais/tree/master/bases/br_anatel_telefonia_movel
+
+Ajude a manter o projeto :)
+Apoia-se: https://apoia.se/basedosdados
+
+Publicado por
+-------------
+Nome: Lucas Nascimento Moreira
+Código: https://github.com/basedosdados/mais/tree/master/bases/br_anatel_telefonia_movel/codeTratado por
+-----------
+Nome: Lucas Nascimento Moreira
+
+
+
+
